@@ -1,0 +1,1 @@
+{"version":3,"file":"disposable.js","sourceRoot":"","sources":["../dist/classes/disposable.ts"],"names":[],"mappings":";;;;;;;;;;;IAAA;QAAA;YAEW,eAAU,GAAY,KAAK,CAAC;YAC5B,UAAK,GAAW,EAAE,CAAC;QAO9B,CAAC;QALU,4BAAO,GAAd;YACI,EAAE,CAAC,CAAC,CAAC,IAAI,CAAC,UAAU,CAAC,CAAC,CAAC;gBACnB,IAAI,CAAC,UAAU,GAAG,IAAI,CAAC;YAC3B,CAAC;QACL,CAAC;QACL,iBAAC;IAAD,CAAC,AAVD,IAUC;IAVY,gCAAU"}
